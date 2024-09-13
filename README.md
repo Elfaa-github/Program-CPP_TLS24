@@ -21,8 +21,10 @@ Kasir sederhana toko ATK adalah program transaksi toko alat tulis kantor yang me
 - **Compiler C++**: Program ini membutuhkan compiler C++ seperti GCC, Clang, atau compiler C++ online seperti Online GDB.
 - **Sistem Operasi**: Program ini dapat dijalankan di berbagai sistem operasi termasuk Windows, macOS, dan Linux.
 
-## Code C ++
-KASIR SEDERHANA TLS TUGAS FIKSS.cpp
+## Program Code C++
+Klik tautan berikut:
+[KASIR SEDERHANA TLS TUGAS FIKSS.cpp](https://github.com/Elfaa-github/Program-CPP_TLS24/blob/98177caf6f5ce13f4e1fff9a7063dc4160c2f1a2/KASIR%20SEDERHANA%20TLS%20TUGAS%20FIKSS.cpp)
+
 
 ## Structure
 
