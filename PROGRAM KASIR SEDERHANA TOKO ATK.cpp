@@ -1,4 +1,4 @@
-#include <iostream> // Library ntuk input dan output standar (cin dan cout)
+#include <iostream> // Library untuk input dan output standar (cin dan cout)
 #include <string>    // Library untuk menggunakan tipe data string
 #include <iomanip>  // Library ntuk memformat output (mengatur presisi angka)
 using namespace std;
