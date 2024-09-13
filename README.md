@@ -23,7 +23,7 @@ Kasir sederhana toko ATK adalah program transaksi toko alat tulis kantor yang me
 
 ## Program Code C++
 Klik tautan berikut:
-[KASIR SEDERHANA TLS TUGAS FIKSS.cpp](https://github.com/Elfaa-github/Program-CPP_TLS24/blob/98177caf6f5ce13f4e1fff9a7063dc4160c2f1a2/KASIR%20SEDERHANA%20TLS%20TUGAS%20FIKSS.cpp)
+[KASIR SEDERHANA TOKO ATK](https://github.com/Elfaa-github/Program-CPP_TLS24/blob/9c55dc44fab71015adfe46a3afca8e3a258d1d44/PROGRAM%20KASIR%20SEDERHANA%20TOKO%20ATK.cpp)
 
 ## How to Use
 - Klik tautan program code C++
