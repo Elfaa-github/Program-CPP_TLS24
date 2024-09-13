@@ -6,7 +6,7 @@ Kasir sederhana toko ATK adalah program transaksi toko alat tulis kantor yang me
 - **Pemilihan Barang**: Pengguna dapat memilih dari daftar barang yang tersedia.
 - **Perhitungan Total**: Program menghitung total biaya berdasarkan harga barang dan jumlah yang dibeli.
 - **Struk Pembayaran**: Menampilkan struk pembayaran dengan detail pembeli, harga, jumlah, total bayar, dan kembalian.
-- **Validasi Pembayaran**: Mengecek apakah uang yang dibayarkan cukup untuk menutupi total biaya.
+- **Validasi Pembayaran**: Mengecek apakah uang yang dibayarkan lebih atau kurang dari total biaya.
 - **Transaksi Ulang**: Opsi untuk melakukan transaksi baru tanpa harus memulai program dari awal.
 
 ## Tech 
