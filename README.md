@@ -28,7 +28,7 @@ Klik tautan berikut:
 ## How to Use
 - Klik tautan program code C++
 - Gunakan compiler C++ untuk mengkompilasi program. Jika Anda menggunakan Online GDB, cukup unggah file main.cpp dan kompilasi.
-- Ikuti petunjuk yang diberikan oleh program untuk melakukan transaksi, memasukkan nama pembeli, memilih barang, menentukan jumlah beli, dan melakukan pembayaran
+- Ikuti petunjuk yang diberikan oleh program untuk melakukan transaksi, memasukkan nama pembeli, memilih barang, menentukan jumlah beli, dan melakukan pembayaran.
 - Program akan menanyakan apakah Anda ingin melakukan transaksi lagi setelah menyelesaikan satu transaksi. Input Y atau y untuk melanjutkan, atau input selain itu untuk keluar dari program.
 
 ## Structure
