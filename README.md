@@ -1,4 +1,6 @@
-# Kasir sederhana Toko ATK
+#Euler_Zahra Elfatima
+
+## Kasir sederhana Toko ATK
 Kasir sederhana toko ATK adalah program transaksi toko alat tulis kantor yang menggunakan bahasa pemrograman C++. Program ini memungkinkan pengguna untuk memilih barang, menentukan jumlah barang yang dibeli, melakukan pembayaran, dan mendapatkan kembalian. Program ini juga menyediakan opsi untuk melakukan transaksi ulang jika diperlukan.
 
 ## Features kasir sederhana
