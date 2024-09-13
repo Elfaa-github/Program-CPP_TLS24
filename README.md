@@ -25,11 +25,16 @@ Kasir sederhana toko ATK adalah program transaksi toko alat tulis kantor yang me
 Klik tautan berikut:
 [KASIR SEDERHANA TLS TUGAS FIKSS.cpp](https://github.com/Elfaa-github/Program-CPP_TLS24/blob/98177caf6f5ce13f4e1fff9a7063dc4160c2f1a2/KASIR%20SEDERHANA%20TLS%20TUGAS%20FIKSS.cpp)
 
+## How to Use
+- Klik tautan program code C++
+- Gunakan compiler C++ untuk mengkompilasi program. Jika Anda menggunakan Online GDB, cukup unggah file main.cpp dan kompilasi.
+- Ikuti petunjuk yang diberikan oleh program untuk melakukan transaksi, memasukkan nama pembeli, memilih barang, menentukan jumlah beli, dan melakukan pembayaran
+- Program akan menanyakan apakah Anda ingin melakukan transaksi lagi setelah menyelesaikan satu transaksi. Input Y atau y untuk melanjutkan, atau input selain itu untuk keluar dari program.
 
 ## Structure
 
 ```plaintext
-toko-atk-jaya/
+kasir-sederhana/
 │
 ├── src/
 │   └── main.cpp         # Kode sumber utama program
